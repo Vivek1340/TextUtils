@@ -1,3 +1,6 @@
+# Site is live at https://vivek1340.github.io/TextUtils/
+This was a tutorial React project. This was an attempt to butld a text utility tool for text manipulation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
